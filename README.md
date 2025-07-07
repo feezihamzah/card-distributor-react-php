@@ -7,6 +7,9 @@ Each card flips from the back to front using Framer Motion animation.
  * 52 shuffled playing cards among them by fetching card data from a PHP backend.
  * Each card flips from the back to front using Framer Motion animation.
 
+## Live Demo:
+👉 [https://feeziquizmath-f099s4m0j-feezihamzahs-projects.vercel.app](https://card-distributor-react-php.vercel.app/)
+
 ## Remarks:
 - Total Time Spent: 2 hours 15 minutes
 
